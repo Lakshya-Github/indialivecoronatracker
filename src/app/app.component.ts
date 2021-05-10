@@ -260,6 +260,8 @@ import { ApiService } from './services/api.service';
         display: flex;
         align-items: center;
         justify-content: center;
+        width: 85%;
+        margin: auto;
       }
       .lastUpdate h2 {
         text-align: center;
