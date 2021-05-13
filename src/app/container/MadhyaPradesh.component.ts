@@ -285,7 +285,7 @@ export class MPComponent implements OnInit {
       );
       console.log(objArray);
       this.states = objArray;
-      const state = objArray[21];
+      const state = objArray[23];
       const details = state.rating.districtData;
       console.log(details);
 
